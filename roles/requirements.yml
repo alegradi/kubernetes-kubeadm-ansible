@@ -1,0 +1,11 @@
+---
+
+# TODO
+# - Update the branches on those repos to be Master
+# - Switch over to master for the version
+
+- src: https://github.com/alegradi/kubeadm-ansible.git
+  version: "main"
+
+- src: https://github.com/alegradi/docker-ansible.git
+  version: "main"
