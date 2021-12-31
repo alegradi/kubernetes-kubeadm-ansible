@@ -1,0 +1,8 @@
+---
+
+docker_ansible_docker_user: root
+
+kubeadm_packages:
+  - kubelet=1.19.3-00
+  - kubeadm=1.19.3-00
+  - kubectl=1.19.3-00
